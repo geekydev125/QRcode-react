@@ -47,7 +47,7 @@
     "@types/react-dom": "^18.0.3",
     "@types/react-test-renderer": "^18.0.0",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
-    "@typescript-eslint/parser": "^5.8.1",
+    "@typescript-eslint/parser": "^8.10.0",
     "babel-jest": "^28.0.3",
     "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.1.0",
